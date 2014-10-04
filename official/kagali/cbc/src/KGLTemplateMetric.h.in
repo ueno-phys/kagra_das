@@ -1,0 +1,12 @@
+#ifndef TEMPLATE_METRIC_H
+#define TEMPLATE_METRIC_H
+
+#include <complex.h>
+
+KGL_BEGIN_DECLS
+
+@prototypes
+
+KGL_END_DECLS
+
+#endif /* TEMPLATE_METRIC_H */

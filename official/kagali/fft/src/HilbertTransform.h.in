@@ -1,0 +1,15 @@
+#ifndef HILBERTTRANSFORM_H
+#define HILBERTTRANSFORM_H
+
+#include <kagali/RealFFT.h>
+#include <complex.h>
+#include <fftw3.h>
+#include <gsl/gsl_spline.h>
+
+KGL_BEGIN_DECLS
+
+@prototypes
+
+KGL_END_DECLS
+
+#endif /* HILBERTTRANSFORM_H */

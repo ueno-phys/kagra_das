@@ -1,0 +1,10 @@
+#ifndef HEX_REPRODUCTION_H
+#define HEX_REPRODUCTION_H
+
+KGL_BEGIN_DECLS
+
+@prototypes
+
+KGL_END_DECLS
+
+#endif /* HEX_REPRODUCTION_H */

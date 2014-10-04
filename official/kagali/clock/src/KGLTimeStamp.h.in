@@ -1,0 +1,13 @@
+#ifndef TIMESTAMP_H
+#define TIMESTAMP_H
+
+#include <time.h>
+
+KGL_BEGIN_DECLS
+
+@prototypes
+
+KGL_END_DECLS
+
+#endif /* TIMESTAMP_H */
+

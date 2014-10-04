@@ -1,0 +1,10 @@
+#ifndef RW_BINAY_H
+#define RW_BINAY_H
+
+KGL_BEGIN_DECLS
+
+@prototypes
+
+KGL_END_DECLS
+
+#endif /* RW_BINAY_H */
