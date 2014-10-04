@@ -1,2 +1,0 @@
-#define KGL_GITVER "$KGL: 2014-09-26 10:47:39 +0900 Ken-ichi Oohara 79974d2bb714c0a7ad5ca96504e3ce4a660101f3 $"
-#define KGL_GITID "79974d2"
